@@ -1,5 +1,6 @@
 # Seshat-Agent
  AI-powered assistant that documents meetings automatically. Named after the ancient Egyptian goddess of writing and wisdom, Seshat uses speech recognition, language models, and integration with Notion to transcribe, summarize, analyze, and archive your meetings with minimal human input.
+![Agent summary](SESHAT.png)
 
 ---
 
@@ -20,6 +21,9 @@
 3. **Transcribe:** Converts the recording to audio and transcribes it using Whisper.
 4. **Analyze:** Sends the transcript to Gemini for summarization and extraction of key information.
 5. **Document:** Creates a detailed meeting page in Notion with all extracted insights.
+
+![Agent Workflow](agentworkflow_lr.png)
+
 
 ---
 
